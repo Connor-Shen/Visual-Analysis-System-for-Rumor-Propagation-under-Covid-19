@@ -2,7 +2,7 @@
 
 In this project I design a rumor visualization system for visualizing rumors in social networks during the epidemic. I conduct Topic Modeling of the rumor dataset and compare different method of LDA and BERTopic. LDA is a convenient and intuitive way for topic modeling while BERTopic has better word embedding and can understand the hidden semantics of the document. Topics like " 疫情、核酸、封控" and " 警方、平台、处罚“appear most frequently in our rumor dataset, which is reasonable in the period of epidemic.
 ## LDA result
-html version can be found in the **figure** folder
+html version can be found in the **figures** folder
 ![img](https://github.com/Connor-Shen/Visual-Analysis-System-for-Rumor-Propagation-under-Covid-19/blob/main/figures/1.png)
 ### Topic modeling heatmap
 ![img](https://github.com/Connor-Shen/Visual-Analysis-System-for-Rumor-Propagation-under-Covid-19/blob/main/figures/heatmap.png)
